@@ -15,3 +15,6 @@ Synthesizing Data
 `python run.py --syn # to generate synthetic labeled data`
 
 Input data should be 256x256x1 size patches.
+
+VGG Model can be downloaded using [this script](https://github.com/CQFIO/PhotographicImageSynthesis/blob/master/download_models.py).
+
